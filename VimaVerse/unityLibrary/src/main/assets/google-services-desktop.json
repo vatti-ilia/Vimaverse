@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280173283360",
+    "project_id": "vimaverse-40dbd",
+    "storage_bucket": "vimaverse-40dbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280173283360:android:af9be5122e2255aeec1445",
+        "android_client_info": {
+          "package_name": "com.example.vimaverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-DsF2k1Z0xtdRPvPfvKQE8WPwLIOD9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Mode Χρώματα (Βαθύ Μπλε/Γκρι αντί για κατάμαυρο) -->
+    <color name="bgColor_dark">#12141D</color> <!-- Σκούρο Μπλε-Γκρι (Πιο ξεκούραστο) -->
+    <color name="cardBgColor_dark">#1E2130</color> <!-- Ελαφρώς πιο ανοιχτό για τις κάρτες -->
+    <color name="textColorPrimary_dark">#F8F9FA</color> <!-- Σχεδόν Λευκό -->
+    <color name="textColorSecondary_dark">#9AA2B1</color> <!-- Ανοιχτό γκρι-μπλε -->
+    <color name="strokeColor_dark">#2C3145</color> <!-- Διακριτικό περίγραμμα -->
+
+    <!-- Menu Colors Dark -->
+    <color name="menuBg_dark">#1A1D29</color> <!-- Σκούρο μενού που "δένει" με το φόντο -->
+    <color name="menuIconUnselected_dark">#5C657A</color>
+</resources>

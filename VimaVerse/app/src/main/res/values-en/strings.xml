@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Calendar Fragment -->
+    <string name="history_title">History</string>
+    <string name="total_steps_label">Total Steps</string>
+    <string name="daily_record_label">Record (1 Day)</string>
+
+    <!-- Friends Fragment -->
+    <string name="friends_title">My Friends</string>
+    <string name="search_username_hint">Search Username...</string>
+    <string name="search_button">Search</string>
+    <string name="add_friend_button">+ Add Friend</string>
+    <string name="friend_steps">steps</string>
+    <string name="return_from">⬅ RETURN FROM:</string>
+
+    <!-- Settings Fragment -->
+    <string name="settings_title">Settings</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="app_language">App Language</string>
+    <string name="logout_button">Log Out</string>
+    <string name="lang_gr">GR</string>
+    <string name="lang_en">EN</string>
+    <string name="lang_it">IT</string>
+    <string name="settings_today_steps">Today\'s Steps:</string>
+
+    <!-- Shop Fragment -->
+    <string name="shop_title">Shop</string>
+
+    <!-- Login Activity -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="go_to_register">Don\'t have an account? Register.</string>
+
+    <!-- Register Activity -->
+    <string name="new_account_title">New Account</string>
+    <string name="username_hint">Username</string>
+    <string name="register_button">REGISTER</string>
+    <string name="go_to_login">Already have an account? Login.</string>
+
+    <!-- Main Activity -->
+    <string name="today_label">TODAY</string>
+    <string name="steps_label">STEPS</string>
+    <string name="trash_button">🗑️ Remove</string>
+    <string name="storage_label">Storage</string>
+    <string name="inventory_desc">Inventory list</string>
+    <string name="planet_desc">Planet</string>
+</resources>

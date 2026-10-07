@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VimaVerse</string>
+
+    <!-- Calendar Fragment -->
+    <string name="history_title">Ιστορικό</string>
+    <string name="total_steps_label">Σύνολο Βημάτων</string>
+    <string name="daily_record_label">Ρεκόρ (1 Ημέρα)</string>
+
+    <!-- Friends Fragment -->
+    <string name="friends_title">Οι Φίλοι μου</string>
+    <string name="search_username_hint">Ψάξε Username...</string>
+    <string name="search_button">Ψάξε</string>
+    <string name="add_friend_button">+ Προσθήκη Φίλου</string>
+    <string name="friend_steps">βήματα</string>
+    <string name="return_from">⬅ ΕΠΙΣΤΡΟΦΗ ΑΠΟ:</string>
+
+    <!-- Settings Fragment -->
+    <string name="settings_title">Ρυθμίσεις</string>
+    <string name="my_wallet">Το Πορτοφόλι μου</string>
+    <string name="dark_mode">Σκοτεινή Λειτουργία</string>
+    <string name="app_language">Γλώσσα Εφαρμογής</string>
+    <string name="logout_button">Αποσύνδεση Λογαριασμού</string>
+    <string name="lang_gr">GR</string>
+    <string name="lang_en">EN</string>
+    <string name="lang_it">IT</string>
+    <string name="settings_today_steps">Σημερινά Βήματα:</string>
+
+    <!-- Shop Fragment -->
+    <string name="shop_title">Κατάστημα</string>
+    <!-- Login Activity -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Κωδικός</string>
+    <string name="login_button">Είσοδος</string>
+    <string name="go_to_register">Δεν έχεις λογαριασμό; Εγγραφή.</string>
+
+    <!-- Register Activity -->
+    <string name="new_account_title">Νέος Λογαριασμός</string>
+    <string name="username_hint">Username</string>
+    <string name="register_button">ΕΓΓΡΑΦΗ</string>
+    <string name="go_to_login">Έχεις ήδη λογαριασμό; Είσοδος.</string>
+
+    <!-- Main Activity -->
+    <string name="today_label">ΣΗΜΕΡΑ</string>
+    <string name="steps_label">ΒΗΜΑΤΑ</string>
+    <string name="trash_button">🗑️ Αφαίρεση</string>
+    <string name="storage_label">Αποθήκη</string>
+    <string name="inventory_desc">Λίστα αποθήκης</string>
+    <string name="planet_desc">Πλανήτης</string>
+</resources>

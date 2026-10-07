@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Calendar Fragment -->
+    <string name="history_title">Cronologia</string>
+    <string name="total_steps_label">Passi Totali</string>
+    <string name="daily_record_label">Record (1 Giorno)</string>
+
+    <!-- Friends Fragment -->
+    <string name="friends_title">I Miei Amici</string>
+    <string name="search_username_hint">Cerca Username...</string>
+    <string name="search_button">Cerca</string>
+    <string name="add_friend_button">+ Aggiungi Amico</string>
+    <string name="friend_steps">passi</string>
+    <string name="return_from">⬅ RITORNO DA:</string>
+
+    <!-- Settings Fragment -->
+    <string name="settings_title">Impostazioni</string>
+    <string name="my_wallet">Il Mio Portafoglio</string>
+    <string name="dark_mode">Modalità Scura</string>
+    <string name="app_language">Lingua dell\'App</string>
+    <string name="logout_button">Disconnetti</string>
+    <string name="lang_gr">GR</string>
+    <string name="lang_en">EN</string>
+    <string name="lang_it">IT</string>
+    <string name="settings_today_steps">Passi di oggi:</string>
+
+    <!-- Shop Fragment -->
+    <string name="shop_title">Negozio</string>
+
+    <!-- Login Activity -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Accedi</string>
+    <string name="go_to_register">Non hai un account? Registrati.</string>
+
+    <!-- Register Activity -->
+    <string name="new_account_title">Nuovo Account</string>
+    <string name="username_hint">Username</string>
+    <string name="register_button">REGISTRATI</string>
+    <string name="go_to_login">Hai già un account? Accedi.</string>
+
+    <!-- Main Activity -->
+    <string name="today_label">OGGI</string>
+    <string name="steps_label">PASSI</string>
+    <string name="trash_button">🗑️ Rimuovi</string>
+    <string name="storage_label">Magazzino</string>
+    <string name="inventory_desc">Elenco inventario</string>
+    <string name="planet_desc">Pianeta</string>
+</resources>

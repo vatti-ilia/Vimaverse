@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Βασικά χρώματα -->
+    <color name="primaryColor">#5E6AD2</color> <!-- Το βασικό Μωβ/Μπλε -->
+    <color name="accentColor">#FF7E67</color> <!-- Το Πορτοκαλί -->
+    <color name="errorColor">#EF5350</color>
+    <color name="goldCoin">#FFC145</color>
+
+    <!-- Σταθερά χρώματα -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <!-- Light Mode Χρώματα (Απαλά και καθαρά) -->
+    <color name="bgColor_light">#F8F9FA</color> <!-- Πιο απαλό γκρι-λευκό για φόντο -->
+    <color name="cardBgColor_light">#FFFFFF</color>
+    <color name="textColorPrimary_light">#2B2D42</color>
+    <color name="textColorSecondary_light">#8D99AE</color>
+    <color name="strokeColor_light">#E2E8F0</color>
+
+    <!-- Menu Colors Light -->
+    <color name="menuBg_light">#FFFFFF</color>
+    <color name="menuIconUnselected_light">#A0AAB2</color>
+</resources>

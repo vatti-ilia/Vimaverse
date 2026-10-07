@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.VimaVerse" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Βασικά -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorSecondary">@color/accentColor</item>
+        <item name="colorError">@color/errorColor</item>
+
+        <!-- Φόντο & Κείμενα -->
+        <item name="colorSurface">@color/cardBgColor_light</item>
+        <item name="android:colorBackground">@color/bgColor_light</item>
+        <item name="colorOnSurface">@color/textColorPrimary_light</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary_light</item>
+        <item name="colorOutline">@color/strokeColor_light</item>
+
+        <!-- ΝΕΟ: Χρώματα Μενού -->
+        <item name="bottomAppbarBackgroundColor">#FFFFFF</item> <!-- Λευκό μενού -->
+        <item name="bottomNavUnselectedColor">#A0AAB2</item> <!-- Γκρι εικονίδια -->
+    </style>
+</resources>

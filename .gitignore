@@ -31,3 +31,17 @@ google-services.json
 
 # Android Profiling
 *.hprof
+# Εξαιρέσεις για Unity και τεράστια αρχεία
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.bundle
+*.so
+*.dylib
+*.dll
