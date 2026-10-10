@@ -181,8 +181,8 @@ def buildIl2CppImpl(String workingDir, String configuration, String architecture
     def extensionToRemove = usePublicSymbols ? ".dbg.so" : ".sym.so"
     def extensionToKeep = usePublicSymbols ? ".sym.so" : ".dbg.so"
 
-    delete "${workingDir}/src/main/jniLibs/${abi}/libil2cpp${extensionToRemove}"
-    ant.move(file: "${workingDir}/src/main/jniLibs/${abi}/libil2cpp${extensionToKeep}", tofile: "${workingDir}/symbols/${abi}/libil2cpp.so")
+   // delete "${workingDir}/src/main/jniLibs/${abi}/libil2cpp${extensionToRemove}"
+   // ant.move(file: "${workingDir}/src/main/jniLibs/${abi}/libil2cpp${extensionToKeep}", tofile: "${workingDir}/symbols/${abi}/libil2cpp.so")
 
 }
 
